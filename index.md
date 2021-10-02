@@ -31,8 +31,8 @@ Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
 
 ### Services 
-Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present 
-JUMP Peer Mentor for 4 freshmen, Jacob School of Engineering, UC San Diego, 2020 
-Freshman Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019
+Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present  
+JUMP Peer Mentor for 4 freshmen, Jacob School of Engineering, UC San Diego, 2020  
+Freshman Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
 
