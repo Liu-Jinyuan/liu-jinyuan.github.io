@@ -15,7 +15,7 @@ Exchange Research Student, School of Aeronautics, Universidad Polit{\' e}cnica d
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, andturbulence. _Physics of Fluids_, 33(9):093316, 2021 
 
 ### Memberships
-Fellowship, the $$12^{\rm th}$$ [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University 
+Fellowship, the $12^{\rm th}$ [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University 
 
 ### Awards 
 
