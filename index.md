@@ -5,7 +5,7 @@ Jinyuan is currently a Ph. D. Student in Mechanical and Aerospace Engineering at
 
 Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined CFD Lab in Jan. 2021.  He has also been working on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation enthusiast and photographer, with more than 300 photos published on the largest peer-reviewed database [jetphotos.com](https://www.jetphotos.com/) [(profile)](https://www.jetphotos.com/photographer/144411). 
+Jinyuan is also an aviation enthusiast and photographer, with more than 300 photos published on the largest peer-reviewed database jetphotos.com [(personal profile)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet. 
 
 ### Education
 Ph. D. Student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, 2021 -- present  
