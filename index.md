@@ -4,7 +4,9 @@ Jinyuan is currentlt a Ph. D. Student in Mechanical and Aerospace Engineering at
 
 ### Education
 Ph. D. Student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, 2021 -- present
+
 B. S. E. in Engineering Thermo-physics (with distinction), Tsinghua University, Aug. 2016 -- June 2020
+
 Exchange Research Student, School of Aeronautics, Universidad Polit{\' e}cnica de Madrid, Sep. 2019 -- Mar. 2020
 
 
