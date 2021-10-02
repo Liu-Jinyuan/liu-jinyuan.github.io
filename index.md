@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Jinyuan J. Liu
 
-You can use the [editor on GitHub](https://github.com/Liu-Jinyuan/liu-jinyuan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Jinyuan is currentlt a Ph. D. Student in Mechanical and Aerospace Engineering at University of California San Diego. He works with [Prof. Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in stratified environments. Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined CFD Lab in Jan. 2021.  He has also been working on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+Ph. D. Student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, 2021 -- present
+B. S. E. in Engineering Thermo-physics (with distinction), Tsinghua University, Aug. 2016 -- June 2020
+Exchange Research Student, School of Aeronautics, Universidad Polit{\' e}cnica de Madrid, Sep. 2019 -- Mar. 2020
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Liu-Jinyuan/liu-jinyuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
