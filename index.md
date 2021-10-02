@@ -10,15 +10,15 @@ Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghu
 Jinyuan is also an aviation enthusiast and photographer, with more than 300 photos published on the largest peer-reviewed database jetphotos.com [(personal profile)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet. He plays Go (Wei-Qi) previously, and was ranked amateur 5-dan by Chinese Go Association. 
 
 ### Education
-Ph. D. Student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
+Ph. D. student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
 B. S. E. in Engineering Thermo-physics (with distinction), Tsinghua University, Aug. 2016 - June 2020  
-Exchange Research Student, School of Aeronautics, Universidad Polit{\' e}cnica de Madrid, Sep. 2019 - Mar. 2020  
+Exchange Research Student, School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, andturbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)
 
 ### Memberships
-Fellowship, the [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
+Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
 Student Membership, American Physical Society, Division of Fluid Dynamics (since 2019)
 
 ### Awards 
@@ -29,4 +29,10 @@ Scholarship for Scientific Innovation, Tsinghua University, 2018
 Scholarship for Overall Excellence, Tsinghua University, 2018  
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
+
+### Services 
+Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present 
+JUMP Peer Mentor for 4 freshmen, Jacob School of Engineering, UC San Diego, 2020 
+Freshman Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019
+
 
