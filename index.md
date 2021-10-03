@@ -5,7 +5,7 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 
 Jinyuan is currently a Ph. D. student in Mechanical and Aerospace Engineering at University of California San Diego. He works with [Prof. Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in stratified environments.  
 
-Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined CFD Lab in Jan. 2021.  He has also been working on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
+Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
 Jinyuan is also an aviation enthusiast and photographer, with more than 300 photos published on the largest peer-reviewed database jetphotos.com [(personal profile)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet. He played Go (Wei-Qi) previously, and was ranked amateur 5-dan by Chinese Go Association. 
 
@@ -15,7 +15,7 @@ B. S. E. in Engineering Thermo-physics (with distinction), Tsinghua University, 
 Exchange Research Student, School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
 
 ### Publications 
-Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, andturbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)
+Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)
 
 ### Memberships
 Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
