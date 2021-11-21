@@ -10,9 +10,9 @@ Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghu
 Jinyuan is also an aviation photographer (shutter count ~70,000), with more than 380 photos published on the largest peer-reviewed database jetphotos.com [(personal profile)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet. He played Go (Wei-Qi) previously, and was ranked amateur 5-dan by Chinese Go Association. 
 
 ### Education
-Ph. D. student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
+Ph. D. student in Fluid Mechanics (advised by Prof. Sutanu Sarkar), Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
 B. S. E. in Engineering Thermo-physics (with distinction), Tsinghua University, Aug. 2016 - June 2020  
-Exchange Research Student, School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
+Visiting Research Student (hosted by Prof. Javier Jim{\'e}nez), School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
