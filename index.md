@@ -11,7 +11,7 @@ Jinyuan is also an aviation photographer (shutter count ~80,000), with more than
 
 ### Education
 Ph. D. student in Fluid Mechanics (advised by Sutanu Sarkar), Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
-Ms. Sc in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - Jan. 2022 
+Ms. Sc in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - Jan. 2022  
 B. S. E. in Engineering Thermo-physics (with distinction), Department of Engineering Mechanics, Tsinghua University, Aug. 2016 - June 2020  
 Visiting Research Student (hosted by Javier Jimenez), School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
 
