@@ -31,6 +31,9 @@ Scholarship for Overall Excellence, Tsinghua University, 2018
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
 
+### Teaching Experience
+Teaching assistant, MAE290B Numerical Methods for PDEs (Instructor: Prof. Sutanu Sarkar), UCSD, Winter 2022   
+
 ### Services 
 Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
