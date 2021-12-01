@@ -10,7 +10,7 @@ Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghu
 Jinyuan is also an aviation photographer (shutter count ~80,000), with more than 400 photos published on the largest peer-reviewed database jetphotos.com [(personal profile)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet when he is not pretending to be a fluid dymanicist. He played Go (Wei-Qi) previously, and was ranked amateur 5-dan by Chinese Go Association. 
 
 ### Education
-Ph. D. student in Fluid Mechanics (advised by Sutanu Sarkar), Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
+Ph. D. student in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - present  
 Ms. Sc in Fluid Mechanics, Department of Mechanical and Aerospace Engineering, UC San Diego, Jan. 2021 - Jan. 2022  
 B. S. E. in Engineering Thermo-physics (with distinction), Department of Engineering Mechanics, Tsinghua University, Aug. 2016 - June 2020  
 Visiting Research Student (hosted by Javier Jimenez), School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
