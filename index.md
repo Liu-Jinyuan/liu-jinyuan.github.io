@@ -42,4 +42,7 @@ JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 20
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
 ### Talks 
-TBA
+TBA  
+
+### Notes 
+TBA  
