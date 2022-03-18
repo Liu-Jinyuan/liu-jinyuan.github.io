@@ -43,7 +43,7 @@ JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 20
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
 ### Talks 
-Vertical structures of vortices in underwater hillwakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract TBA,](https://liu-jinyuan.github.io/)[slides TBA)](https://liu-jinyuan.github.io/)  
+Vertical structures of vortices in underwater hillwakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract TBA,](https://liu-jinyuan.github.io/)[ slides TBA)](https://liu-jinyuan.github.io/)  
 Pixels and printings: in the context of aviation photography, Tunight, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
 
 ### Notes 
