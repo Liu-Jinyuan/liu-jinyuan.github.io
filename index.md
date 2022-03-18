@@ -35,6 +35,7 @@ First Prize, National Aerospace Knowledge Competition for College Students, 2018
 
 ### Teaching Experience
 Teaching assistant, MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), UCSD, Winter 2022   
+Teaching assistant, MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), UCSD, Spring 2022   
 
 ### Services 
 Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present  
@@ -42,7 +43,8 @@ JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 20
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
 ### Talks 
-TBA  
+Vertical structures of vortices in underwater hillwakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://liu-jinyuan.github.io/)[slides)](https://liu-jinyuan.github.io/)  
+Pixels and printings, in the context of aviation photography, TUNA night, Tsinghua Univ., April 2022. [(slides)](https://liu-jinyuan.github.io/)
 
 ### Notes 
 TBA  
