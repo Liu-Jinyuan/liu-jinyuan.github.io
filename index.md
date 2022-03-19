@@ -50,5 +50,7 @@ Pixels and printings: in the context of aviation photography, Tunight, TUNA Tsin
 TBA  
 
 ### Fun pics
+<center>
 <img src="/docs/cfd_bg.png" width="200" height="200">
+</center>
 
