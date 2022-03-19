@@ -20,7 +20,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study
 **Jinyuan Liu**, "Large- and very-large-scale structures in turbulent channels," Undergraduate thesis (Tsinghua Univeristy, 2020), in Chinese. [(pdf)](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf)  
 
 ### Talks 
-Structures of vortices in underwater hillwakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf)[ slides TBA)](https://liu-jinyuan.github.io/)  
+Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf)[ slides TBA)](https://liu-jinyuan.github.io/)  
 
 ### Memberships
 Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
