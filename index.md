@@ -20,7 +20,7 @@ B. S. E. in Engineering Thermo-physics (with distinction), Aug. 2016 - June 2020
 <sub> - Department of Engineering Mechanics, Tsinghua University</sub>  
 
 Visiting Research Student, Sep. 2019 - Mar. 2020  
-<sub> - School of Aeronautics, Universidad Politecnica de Madrid, advised by Javier Jimenez <\sub>  
+<sub> - School of Aeronautics, Universidad Politecnica de Madrid, advised by Javier Jimenez<\sub>  
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
