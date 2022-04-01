@@ -23,7 +23,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf)[ slides TBA)](https://liu-jinyuan.github.io/)  
 
 ### Notes 
-Hydrodynamic and geostrophic assumptions, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
+Hydrodynamic and geostrophic assumptions, CFDLAB Tech Notes. [(pdf)](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf)  
 Proper orthogonal decomposition, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
 Fourier transform and spectral methods in MATLAB, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
 Pixels and printings: in the context of aviation photography, Tunight Talk, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
