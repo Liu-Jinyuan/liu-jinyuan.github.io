@@ -22,6 +22,12 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study
 ### Talks 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf)[ slides TBA)](https://liu-jinyuan.github.io/)  
 
+### Notes 
+Hydrodynamic and geostrophic assumptions, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
+Proper orthogonal decomposition, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
+Fourier transform and spectral methods in MATLAB, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
+Pixels and printings: in the context of aviation photography, Tunight Talk, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
+
 ### Memberships
 Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
 Student Membership, American Physical Society, Division of Fluid Dynamics (since 2019)  
@@ -45,11 +51,8 @@ Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Ts
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
-### Notes 
-Pixels and printings: in the context of aviation photography, Tunight Talk, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
-
 ### Fun pics
 <p align="center">
-  <img src="/docs/cfd_bg.png" width="200" height="200">
+  <img src="/docs/cfd_bg.png" width="250" height="200">
 </p>
 
