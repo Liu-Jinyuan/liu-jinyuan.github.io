@@ -16,16 +16,16 @@ B. S. E. in Engineering Thermo-physics (with distinction), Department of Enginee
 Visiting Research Student (hosted by Javier Jimenez), School of Aeronautics, Universidad Politecnica de Madrid, Sep. 2019 - Mar. 2020  
 
 ### Publications 
-Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang*. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
+Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
 **Jinyuan Liu**, "Large- and very-large-scale structures in turbulent channels," Undergraduate thesis (Tsinghua Univeristy, 2020), in Chinese. [(pdf)](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf)  
 
 ### Talks 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. [(abstract,](https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf)[ slides TBA)](https://liu-jinyuan.github.io/)  
 
 ### Notes 
-Hydrodynamic and geostrophic assumptions, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
-Proper orthogonal decomposition, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
-Fourier transform and spectral methods in MATLAB, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)
+Hydrodynamic and geostrophic assumptions, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
+Proper orthogonal decomposition, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
+Fourier transform and spectral methods in MATLAB, CFDLAB Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
 Pixels and printings: in the context of aviation photography, Tunight Talk, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
 
 ### Memberships
@@ -53,6 +53,6 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 
 ### Fun pics
 <p align="center">
-  <img src="/docs/cfd_bg.png" width="250" height="200">
+  <img src="/docs/cfd_bg.png" width="250" height="250">
 </p>
 
