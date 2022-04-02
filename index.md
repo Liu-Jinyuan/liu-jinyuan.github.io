@@ -11,16 +11,16 @@ Jinyuan is also an aviation photographer [(photo gallery)](https://www.jetphotos
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
-<sub>     - Department of Mechanical and Aerospace Engineering, UC San Diego</sub>  
+   <sub>- Department of Mechanical and Aerospace Engineering, UC San Diego</sub>  
 
 Ms. Sc. in Fluid Mechanics, Jan. 2021 - Jan. 2022  
-<sub>     - Department of Mechanical and Aerospace Engineering, UC San Diego</sub>  
+   <sub>- Department of Mechanical and Aerospace Engineering, UC San Diego</sub>  
 
 B. S. E. in Engineering Thermo-physics (with distinction), Aug. 2016 - June 2020  
-<sub>     - Department of Engineering Mechanics, Tsinghua University</sub>  
+   <sub>- Department of Engineering Mechanics, Tsinghua University</sub>  
 
 Visiting Research Student, Sep. 2019 - Mar. 2020  
-<sub>     - School of Aeronautics, Universidad Politecnica de Madrid, advised by Javier Jimenez</sub>  
+   <sub>- School of Aeronautics, Universidad Politecnica de Madrid, advised by Javier Jimenez</sub>  
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
@@ -57,6 +57,9 @@ Teaching assistant, MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu S
 Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
+
+### 
+[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and push him!  
 
 ### Fun pics
 <p align="center">
