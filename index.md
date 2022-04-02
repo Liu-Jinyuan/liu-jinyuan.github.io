@@ -51,7 +51,7 @@ Teaching assistant, MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarka
 Teaching assistant, MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), UCSD, Spring 2022   
 
 ### Services 
-Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2019 - present  
+Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2019 - present  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
