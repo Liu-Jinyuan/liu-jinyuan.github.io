@@ -56,7 +56,7 @@ JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 20
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
 ### External links 
-[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!
+[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!
 
 ### Fun pics
 <p align="center">
