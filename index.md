@@ -60,6 +60,6 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 
 ### Fun pics
 <p align="center">
-  <img src="/docs/cfd_bg.png" width="250" height="250">
+  <img src="/docs/cfd_bg.png" width="250" height="250">  
 </p>
 
