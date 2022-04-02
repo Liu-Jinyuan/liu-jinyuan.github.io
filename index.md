@@ -11,13 +11,13 @@ Jinyuan is also an aviation photographer [(photo gallery)](https://www.jetphotos
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
-Department of Mechanical and Aerospace Engineering, UC San Diego  
+   Department of Mechanical and Aerospace Engineering, UC San Diego  
 Ms. Sc. in Fluid Mechanics, Jan. 2021 - Jan. 2022  
-Department of Mechanical and Aerospace Engineering, UC San Diego  
+   Department of Mechanical and Aerospace Engineering, UC San Diego  
 B. S. E. in Thermo-physics (with distinction), Aug. 2016 - June 2020  
-Department of Engineering Mechanics, Tsinghua University  
+   Department of Engineering Mechanics, Tsinghua University  
 Visiting Research Student, Sep. 2019 - Mar. 2020  
-School of Aeronautics, Universidad Politecnica de Madrid, advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
+   School of Aeronautics, Universidad Politecnica de Madrid, advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted andcavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717)  
