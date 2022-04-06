@@ -28,6 +28,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
+Equations in fluids, CFD Lab Tech Notes. [(pdf coming soon)](https://liu-jinyuan.github.io/)  
 Proper orthogonal decomposition, CFD Lab Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
 Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(pdf TBA)](https://liu-jinyuan.github.io/)  
 Pixels and printings: in the context of aviation photography, Tunight Talk, TUNA Tsinghua Univ., April 2022. [(slides TBA)](https://liu-jinyuan.github.io/)
@@ -63,3 +64,7 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
   <img src="/docs/cfd_bg.png" width="250" height="250">  
 </p>
 
+### Quotes 
+> Difficulty is just a name of unfamiliarity. 
+> The wisdom of any individual can never be assumed. 
+> A stupid bird has to fly first. 
