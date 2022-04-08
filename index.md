@@ -63,13 +63,4 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 ### Fun pics
 <p align="center">
   <img src="/docs/cfd_bg.png" width="250" height="250">  
-</p>
-
-# ### Quotes 
-# > Difficulty is just another name of unfamiliarity.  
-# >   
-# > The wisdom of any individual can never be assumed.  
-# >   
-# > A stupid bird has to fly first.  
-# >  
-# > History will bring talented people to where they deserve.  
+</p> 
