@@ -58,18 +58,18 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 
 ### External links 
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
-[Pwe](https://yipe.ng/zh.pdf) is a little cat. Click [here](https://pwe.cat/) to pat him!
+[Pwe](https://yipe.ng/zh.pdf) is a little cat. Click [here](https://pwe.cat/) to pat him or pat him more!
 
 ### Fun pics
 <p align="center">
   <img src="/docs/cfd_bg.png" width="250" height="250">  
 </p>
 
-### Quotes 
-> Difficulty is just another name of unfamiliarity.  
->   
-> The wisdom of any individual can never be assumed.  
->   
-> A stupid bird has to fly first.  
->  
-> History will bring talented people to where they deserve.  
+# ### Quotes 
+# > Difficulty is just another name of unfamiliarity.  
+# >   
+# > The wisdom of any individual can never be assumed.  
+# >   
+# > A stupid bird has to fly first.  
+# >  
+# > History will bring talented people to where they deserve.  
