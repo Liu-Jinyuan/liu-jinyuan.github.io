@@ -31,7 +31,8 @@ Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank"
 Equations in fluids, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
 Proper orthogonal decomposition, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
 Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
-Pixels and printings: in the context of aviation photography, Tunight Talk, [TUNA](https://tuna.moe/) at Tsinghua Univ., May 2022. [(slides coming soon)](https://liu-jinyuan.github.io/)  
+Pixels and printings: in the context of aviation photography, Tunight Talk, [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(coming soon)](https://liu-jinyuan.github.io/)  
+Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
 ### Memberships
 Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
