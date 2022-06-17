@@ -5,7 +5,7 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 
 Jinyuan is currently a Ph. D. student in Mechanical and Aerospace Engineering at University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified environments.  
 
-Jinyuan received his Batchelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
+Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
 Jinyuan is also an aviation photographer [(photo gallery)](https://www.jetphotos.com/photographer/144411). He swims and plays the trumpet when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
 
