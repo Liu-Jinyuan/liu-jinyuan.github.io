@@ -71,4 +71,9 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
   <img src="/docs/tom_jfm.png" width="350" height="250">  
 </p>  
 
-My name in Chinese character is 刘晋源. 
+### Others 
+My name in Chinese character is 刘晋源. The following is how I looked like in 2020. 
+
+<p align="center">
+  <img src="/docs/jinyuan_pic.png" width="300" height="300">  
+</p>  
