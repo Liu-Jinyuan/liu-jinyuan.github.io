@@ -75,5 +75,5 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 My name in Chinese character is 刘晋源. Below is a picture of me taken at Tsinghua in 2020. 
 
 <p align="center">
-  <img src="/docs/jinyuan_pic.jpg" width="200" height="200">  
+  <img src="/docs/jinyuan_pic.jpg" width="250" height="250">  
 </p>  
