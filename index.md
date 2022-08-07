@@ -32,7 +32,7 @@ Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank"
 Equations in fluids, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
 Proper orthogonal decomposition, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
 Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
-Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=-0OfRC7nBq4">(YouTube)</a>  
+Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
 ### Memberships
