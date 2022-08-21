@@ -81,3 +81,6 @@ My name in Chinese character is 刘晋源. Below are pictures of me taken at Tsi
 <p align="center">
   <img src="/docs/jinyuan_pic_20.jpg" width="250" height="250">  
 </p>  
+
+### Philosophy
+[good taste](http://www.paulgraham.com/goodart.html), [smart](http://www.paulgraham.com/smart.html)
