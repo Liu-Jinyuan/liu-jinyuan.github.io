@@ -83,4 +83,4 @@ My name in Chinese character is 刘晋源. Below are pictures of me taken at Tsi
 </p>  
 
 ### Philosophy
-[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [smart](http://www.paulgraham.com/smart.html)
+[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html)
