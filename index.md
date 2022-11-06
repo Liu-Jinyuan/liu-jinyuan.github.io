@@ -86,4 +86,4 @@ My name in Chinese character is 刘晋源. Below are pictures of me taken at Tsi
 **Philosophy:**
 [good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html)  
 **Fundamentals of instruction:**
-[memory](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory) 
+[memory](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [learning theory](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/learning-process) 
