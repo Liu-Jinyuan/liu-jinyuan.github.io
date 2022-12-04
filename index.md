@@ -7,14 +7,12 @@ Jinyuan is currently a Ph. D. student in Mechanical and Aerospace Engineering at
 
 Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he has been a member of the [photography team](https://airways-photo.square.site/) at [Airways](https://airwaysmag.com/)  since 2022. His shutter count exceeds 100,000. He swims and plays the trumpet when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he has been a member of the [photography team](https://airways-photo.square.site/) at [Airways](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego  
-Ms. Sc. in Fluid Mechanics, Jan. 2021 - Jan. 2022  
-   Department of Mechanical and Aerospace Engineering, UC San Diego  
-B. S. E. in Thermo-physics (with distinction), Aug. 2016 - June 2020  
+B. S. E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University  
 Visiting Research Student, Sep. 2019 - Mar. 2020  
    School of Aeronautics, Universidad Politecnica de Madrid, advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
@@ -29,16 +27,16 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
-Equations in fluids, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
-Proper orthogonal decomposition, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
-Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)  
+<!-- Equations in fluids, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
+<!-- Proper orthogonal decomposition, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
+<!-- Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
 Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
 ### Memberships
-Fellowship, [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University  
-Student Membership, American Physical Society, Division of Fluid Dynamics (since 2019)  
-Member, American Go Association
+Fellowship, 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
+Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
+Member, American Go Association  
 
 ### Awards 
 Outstanding Undergraduate Dissertation (5%), Tsinghua University, 2020  
@@ -49,12 +47,13 @@ Scholarship for Overall Excellence, Tsinghua University, 2018
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
 
-### Teaching Experience
-Teaching assistant, MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), UCSD, Winter 2022   
-Teaching assistant, MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), UCSD, Spring 2022   
+### Teaching Assistantship (at UCSD)
+MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023     
+MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023   
+ 
 
 ### Services 
-Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2019 - present  
+Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
