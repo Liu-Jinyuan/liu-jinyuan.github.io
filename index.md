@@ -7,7 +7,9 @@ Jinyuan is currently a Ph. D. student in Mechanical and Aerospace Engineering at
 
 Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he has been a member of the [photography team](https://airways-photo.square.site/) at [Airways](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he was selected into the [photography team](https://airways-photo.square.site/) at [Airways Magazine](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
+
+His name in Chinese character is 刘晋源. 
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
@@ -71,16 +73,9 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
   <img src="/docs/tom_jfm.png" width="350" height="250">  
 </p>  
 
-### Others 
-My name in Chinese character is 刘晋源. Below are pictures of me taken at Tsinghua, in 2021 and 2020. 
-
-<p align="center">
-  <img src="/docs/jinyuan_pic.jpg" width="250" height="250">  
-</p>   
-
 <p align="center">
   <img src="/docs/jinyuan_pic_20.jpg" width="250" height="250">  
-</p>  
+</p>   
 
 ### Shared links 
 **Philosophy:**
