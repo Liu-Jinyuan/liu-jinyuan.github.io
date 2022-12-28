@@ -81,4 +81,4 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 **Philosophy:**
 [good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html)  
 **Fundamentals of instruction:**
-[memory](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory)
+[how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)
