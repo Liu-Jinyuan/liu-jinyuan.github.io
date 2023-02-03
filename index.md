@@ -53,7 +53,7 @@ First Prize, National Aerospace Knowledge Competition for College Students, 2018
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023     
 MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023   
-(Remarks: Knowledge is expanded by doing research, but has to be conversed by teaching and learning. I felt fortunate to TA the subjects I like, and to be able to keep improving my own knowledge and my instruction skills on them.)   
+(Remarks: Knowledge is to be expanded by doing research, but has to be conversed by teaching and learning. I felt fortunate to TA the subjects I like, and to be able to keep improving my own knowledge and my instruction skills on them.)   
 
 ### Services 
 Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
