@@ -53,6 +53,7 @@ First Prize, National Aerospace Knowledge Competition for College Students, 2018
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023     
 MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023   
+(Remarks: I felt fortunate to TA the subjects I like, and to be able to keep improving my own knowledge and my instruction skills on them. Knowledge is expanded by doing research, and is conversed by teaching.)
  
 
 ### Services 
