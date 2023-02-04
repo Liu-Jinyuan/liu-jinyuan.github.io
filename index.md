@@ -3,13 +3,13 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jinyuan_cv.pdf">CV</a>, 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JZoiqx8AAAAJ&view_op=list_works&gmla=AJsN-F6ZzJ_d96OQwlVnTF-oqgqrxpQnrrX771f60xKjQMz51DZlzs8GPt2_hGTrI5Vis-FTSqWTNqORvViWrQAw0LyK6ICOSOHpf_kRtJV1T8P-A4sOgGk), [ORCID](https://orcid.org/0000-0003-4133-0930)
 
-Jinyuan is currently a Ph. D. student in Mechanical and Aerospace Engineering at University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified environments.  
+Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified environments.  
 
-Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua Univerisity, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
+Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he was selected into the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dymanicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by Chinese Go Association. 
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he was selected into the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by the Chinese Go Association. 
 
-His name in Chinese character is 刘晋源. 
+His name in Chinese characters is 刘晋源. 
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
@@ -21,7 +21,7 @@ Visiting Research Student, Sep. 2019 - Mar. 2020
 
 ### Publications 
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
-**Jinyuan Liu**, "Large- and very-large-scale structures in turbulent channels," Undergraduate thesis (Tsinghua Univeristy, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
+**Jinyuan Liu**, "Large- and very-large-scale structures in turbulent channels," Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
 
 ### Talks 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf">(abstract)</a>   
