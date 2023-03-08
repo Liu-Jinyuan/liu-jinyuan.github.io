@@ -36,12 +36,7 @@ Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank"
 Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
-### Memberships
-Fellowship, 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
-Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
-Member, American Go Association  
-
-### Awards 
+### Awards  
 Outstanding Undergraduate Dissertation (5%), Tsinghua University, 2020  
 Academic Distinction Award for Graduates (10%), Tsinghua University, 2020  
 Second Prize for Student Research Training, Tsinghua University, 2019  
@@ -49,6 +44,12 @@ Scholarship for Scientific Innovation, Tsinghua University, 2018
 Scholarship for Overall Excellence, Tsinghua University, 2018  
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
+
+### Fellowships and Memberships 
+Fellowship, 5th Madrid Turbulence Summer School, 2023    
+Fellowship, 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
+Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
+Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023     
