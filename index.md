@@ -7,7 +7,7 @@ Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at 
 
 Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411) and he was selected into the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by the Chinese Go Association. 
+Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by the Chinese Go Association. 
 
 His name in Chinese characters is 刘晋源. 
 
