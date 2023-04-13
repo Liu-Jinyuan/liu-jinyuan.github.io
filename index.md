@@ -53,8 +53,7 @@ Member, American Go Association
 
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023     
-MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023   
-(Remarks: Knowledge is to be expanded by doing research, but has to be conversed by teaching and learning. I felt fortunate to TA the subjects I like, and to be able to keep improving my own knowledge and my instruction skills on them.)   
+MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023     
 
 ### Services 
 Referee for: Physics of Fluids, Acta Mechanica Sinica  
@@ -62,9 +61,15 @@ Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](h
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
 
-### External links 
+### Friends of Jinyuan  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.   
+
+### Shared links 
+**Philosophy:**
+[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html)  
+**Fundamentals of instruction:**
+[how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)  
 
 ### Fun pics
 <p align="center">
@@ -79,8 +84,10 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
   <img src="/docs/jinyuan_pic_20.jpg" width="350" height="350">  
 </p>   
 
-### Shared links 
-**Philosophy:**
-[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html)  
-**Fundamentals of instruction:**
-[how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)
+
+### Miscellaneous  
+Knowledge is to be expanded by doing research, but is to be conversed by teaching and learning.  
+
+Professors have students, which feed on their knowledge, students have their students, and so on to infinity.  
+
+
