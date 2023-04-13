@@ -66,7 +66,7 @@ Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 201
 ### Friends of Jinyuan  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
-[Xinyi Huang](https://xinyi-huang.github.io/)  
+[Xinyi](https://xinyi-huang.github.io/)  is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
 
 ### Shared links 
 Philosophy:
