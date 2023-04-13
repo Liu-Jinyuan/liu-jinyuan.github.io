@@ -48,7 +48,7 @@ Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
 
 ### Fellowships and Memberships 
-Fellowship, 5th Madrid Turbulence Summer School, 2023    
+Fellowship, 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
 Fellowship, 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
 Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
 Member, American Go Association   
