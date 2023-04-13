@@ -24,10 +24,11 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 **Jinyuan Liu**, "Large- and very-large-scale structures in turbulent channels," Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
 
 ### Talks 
-**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, April 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf">(abstract)</a>   
+**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes, 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf">(abstract)</a>   
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/liu_socal_22_vf.pdf">(slides)</a>   -->
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Spatiotemporal analysis of coherent structures in the wake of an underwater hill, 75th Annual Meeting of American Physical Society Division of Fluid Dynamics, Indianapolis, November 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_liu_22.pdf">(abstract)</a>  
-**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Influence of rotation on the vortex structures in flow past an underwater hill, 16th SoCal Fluids Symposium, SDSU, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
+**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Influence of rotation on the vortex dynamics
+in stratified flow past an underwater hill, 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
