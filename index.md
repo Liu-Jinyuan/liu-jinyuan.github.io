@@ -86,7 +86,7 @@ Fundamentals of instruction:
 
 
 ### Miscellaneous  
-(Things that I am convinced of but not supposed to believe)
+(Things that I am convinced of but not supposed to believe)  
 Knowledge is to be expanded by doing research, but is to be conversed by teaching and learning. If only normal work was performed, knowledge would not be expanded when transferred, but would even shrink a little bit.   
 Professors have students that feed on their knowledge, and students have their students and so on to infinity.  
 Difficulty is just another name of unfamiliarity.  
