@@ -5,7 +5,7 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 
 Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified environments.  
 
-Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He has also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
+Jinyuan received his Bachelor's Degree in Engineering Themophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021.  He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo and turbulent channels at Universidad Politecnica de Madrid.
 
 Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He plays Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by the Chinese Go Association. 
 
@@ -13,7 +13,7 @@ His name in Chinese characters is 刘晋源.
 
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
-   Department of Mechanical and Aerospace Engineering, UC San Diego  
+   Department of Mechanical and Aerospace Engineering, UC San Diego, advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
 B. S. E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University  
 Visiting Research Student, Sep. 2019 - Mar. 2020  
@@ -29,6 +29,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Spatiotemporal analysis of coherent structures in the wake of an underwater hill, 75th Annual Meeting of American Physical Society Division of Fluid Dynamics, Indianapolis, November 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_liu_22.pdf">(abstract)</a>  
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Influence of rotation on the vortex dynamics
 in stratified flow past an underwater hill, 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
+**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Coherent vortex structures in stratified rotating ﬂow past a three-dimensional hill, 75th Annual Meeting of American Physical Society Division of Fluid Dynamics, Indianapolis, November 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_23_liu.pdf">(abstract)</a>  
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
