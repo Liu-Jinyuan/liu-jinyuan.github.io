@@ -28,7 +28,6 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 
 ### Talks and conference presentations 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Structures of vortices in underwater hill wakes. The 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf">(abstract)</a>  
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/liu_socal_22_vf.pdf">(slides)</a>   -->
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Spatiotemporal analysis of coherent structures in the wake of an underwater hill. The 75th Annual Meeting of American Physical Society Division of Fluid Dynamics, Indianapolis, November 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_liu_22.pdf">(abstract)</a>  
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Influence of rotation on the vortex dynamics
 in stratified flow past an underwater hill. The 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
@@ -37,9 +36,6 @@ in stratified flow past an underwater hill. The 16th SoCal Fluids Symposium, SDS
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
-<!-- Equations in fluids, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
-<!-- Proper orthogonal decomposition, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
-<!-- Fourier transform and spectral methods in MATLAB, CFD Lab Tech Notes. [(coming soon)](https://liu-jinyuan.github.io/)   -->
 Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
