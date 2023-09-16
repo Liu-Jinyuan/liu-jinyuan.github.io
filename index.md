@@ -55,8 +55,8 @@ Student Member, American Physical Society, Division of Fluid Dynamics (since 201
 Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
-MAE290B Numerical Methods for PDEs (Instructor: Sutanu Sarkar), Winter 2022, 2023, 2024       
-MAE214A Intro to Turbulence and Mixing (Instructor: Sutanu Sarkar), Spring 2022, 2023     
+MAE290B Numerical Methods for PDEs (graduate course, instructor: Sutanu Sarkar), Winter 2022, 2023, 2024  
+MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Spring 2022, 2023  
 
 ### Services 
 Referee for: Physics of Fluids, Acta Mechanica Sinica  
