@@ -92,6 +92,6 @@ Arts:
 
 
 ### Miscellaneous   
-
+See my airborne photos out-of-the-window [(link)](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0)  
 
 
