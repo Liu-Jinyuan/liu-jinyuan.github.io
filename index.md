@@ -75,7 +75,7 @@ Philosophy:
 Fundamentals of instruction:
 [how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)  
 History and arts: 
-[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang(in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
+[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang (in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
 
 ### Fun pics
 <p align="center">
