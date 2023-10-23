@@ -74,8 +74,8 @@ Philosophy:
 [good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html), [be a good physicist (bilibili video)](https://www.bilibili.com/video/BV1Nb411g75C/), [novelty](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143)  
 Fundamentals of instruction:
 [how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)  
-Arts: 
-[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline)
+History and arts: 
+[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang(in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
 
 ### Fun pics
 <p align="center">
