@@ -23,7 +23,7 @@ Visiting Research Student, Sep. 2019 - Feb. 2020
 
 ### Publications, pre-prints, and thesis  
 **Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratifed ﬂow. (in preparation)  
-**Jinyuan Liu**, Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Proceeding for the fifth Madrid Turbulence Summer school_. (under review) 
+**Jinyuan Liu**, Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Proceeding for the fifth Madrid Turbulence Summer school_. (under review)  
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
 **Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
 
@@ -33,7 +33,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Influence of rotation on the vortex dynamics
 in stratified flow past an underwater hill. The 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
 **Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Coherent vortex structures in stratified rotating ﬂow past a three-dimensional hill. The 76th Annual Meeting of American Physical Society Division of Fluid Dynamics, Washington DC, November 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_23_liu.pdf">(abstract)</a>  
-**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Stratified flow over steep isolated topography: submesoscale wake vortices, internal waves, and turbulence. Ocean Science Meeting, New Orleans, February 2024.  
+**Jinyuan Liu**, Pranav Puthan, and Sutanu Sarkar. Stratified flow over steep isolated topography: submesoscale wake vortices, internal waves, and turbulence. Ocean Science Meeting, New Orleans, February 2024. (poster)  
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
