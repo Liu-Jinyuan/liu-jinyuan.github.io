@@ -50,20 +50,20 @@ Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
 
 ### Fellowships and Memberships 
-Fellowship, 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
-Fellowship, 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
+Fellowship, the 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
+Fellowship, the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
 Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
 Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
-MAE290B Numerical Methods for PDEs (graduate course, instructor: Sutanu Sarkar), Winter 2022, 2023, 2024  
-MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Spring 2022, 2023  
+MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024  
+MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023  
 
 ### Services 
 Referee for: Physics of Fluids, Acta Mechanica Sinica  
 Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
-Peer Mentor for 15 freshmen, School of Aerospace, Tsinghua University, 2018, 2019  
+Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019  
 
 ### Friends' links (incomplete)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
