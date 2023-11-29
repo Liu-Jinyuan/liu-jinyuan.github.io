@@ -3,7 +3,7 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jinyuan_cv_23.pdf">CV</a>, 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JZoiqx8AAAAJ&view_op=list_works&gmla=AJsN-F6ZzJ_d96OQwlVnTF-oqgqrxpQnrrX771f60xKjQMz51DZlzs8GPt2_hGTrI5Vis-FTSqWTNqORvViWrQAw0LyK6ICOSOHpf_kRtJV1T8P-A4sOgGk), [ORCID](https://orcid.org/0000-0003-4133-0930), [LinkedIn](https://www.linkedin.com/in/liu-jinyuan/)  
 
-Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified wakes. He has a broad interest in wall-bounded and free-shear turbulence, as well as geophysical flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
+Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified wakes. He has a broad spectrum of interests and experience in areas ranging from wall-bounded to free-shear turbulence, from canonical flows to geophysical flows, and from flow instability to high Reynolds number turbulence. He seeks truth, simplicity, and beauty in fluid mechanics.  
 
 Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politecnica de Madrid.
 
@@ -13,16 +13,18 @@ His name in Chinese characters is 刘晋源.
    
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
-   Department of Mechanical and Aerospace Engineering, UC San Diego, advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
+   Department of Mechanical and Aerospace Engineering, UC San Diego,  
+   advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
    
 B. S. E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University   
     
 Visiting Research Student, Sep. 2019 - Feb. 2020  
-   School of Aeronautics, Universidad Politecnica de Madrid, advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
+   School of Aeronautics, Universidad Politecnica de Madrid,  
+   advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
 
 ### Publications, pre-prints, and thesis  
-**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratifed ﬂow. (in preparation)  
+**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratified ﬂow. (in preparation)  
 **Jinyuan Liu**, Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Proceeding for the fifth Madrid Turbulence Summer School_. (under review)  
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
 **Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
@@ -33,7 +35,7 @@ The 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022.
 The 75th Annual Meeting of APS DFD, Indianapolis, November 2022. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_liu_22.pdf">(abstract)</a>  
 The 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
 The 76th Annual Meeting of APS DFD, Washington DC, November 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_23_liu.pdf">(abstract)</a>  
-Ocean Science Meeting, New Orleans, February 2024. (poster)  
+Ocean Science Meeting  2024, New Orleans, February 2024. (poster)  
 
 ### Notes 
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
