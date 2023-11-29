@@ -3,14 +3,14 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jinyuan_cv_23.pdf">CV</a>, 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JZoiqx8AAAAJ&view_op=list_works&gmla=AJsN-F6ZzJ_d96OQwlVnTF-oqgqrxpQnrrX771f60xKjQMz51DZlzs8GPt2_hGTrI5Vis-FTSqWTNqORvViWrQAw0LyK6ICOSOHpf_kRtJV1T8P-A4sOgGk), [ORCID](https://orcid.org/0000-0003-4133-0930), [LinkedIn](https://www.linkedin.com/in/liu-jinyuan/)  
 
-Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified wakes. He has a broad interest in wall-bounded and free-shear turbulence, as well as geophysical flows.   
+Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). His current research focus is turbulence and vortex dynamics in rotating, stratified wakes. He has a broad interest in wall-bounded and free-shear turbulence, as well as geophysical flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
 
 Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He has been playing Go (Wei-Qi) since elementary school, and was ranked amateur 5-dan by the Chinese Go Association. 
+Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He has been playing Go (Wei-Qi) since elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
 
 His name in Chinese characters is 刘晋源. 
-
+   
 ### Education
 Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego, advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
@@ -93,6 +93,6 @@ History and arts:
 
 
 ### Miscellaneous   
-See my airborne photos out-of-the-window [(link)](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0)  
+See [my airborne photos out-of-the-window](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) or [the airports I have been to](https://www.jetphotos.com/photographer/144411)  
 
 
