@@ -71,7 +71,7 @@ Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](h
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019  
 
-### Friends' links (incomplete)  
+### Friends' links (under construction)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved and he is now only 15 years away from reaching the age limit of the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal)!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
 [Xinyi](https://xinyi-huang.github.io/)  is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
