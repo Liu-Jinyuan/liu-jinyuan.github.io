@@ -37,8 +37,12 @@ The 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank"
 The 76th Annual Meeting of APS DFD, Washington DC, November 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_23_liu.pdf">(abstract)</a>  
 Ocean Science Meeting  2024, New Orleans, February 2024. (poster)  
 
-### Notes 
+### Notes (under construction)  
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
+Modified differential equation analysis of RK3+central scheme for Burgers equation <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/rk3_central.pdf">(pdf)</a>  
+Question list on fluid mechanics, numerics, and turbulence <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>  
+Practical Fourier transform and spectral methods (TBD)  
+Space-time and spectral proper orthogonal decompositions (TBD)  
 Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
