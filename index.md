@@ -77,7 +77,7 @@ Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 201
 [Xinyi](https://xinyi-huang.github.io/)  is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
 
 ### Shared links 
-Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/) [(epilogue)](https://www.feynmanlectures.caltech.edu/III_22.html)  
+Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/)  
 Philosophy:
 [good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html), [be a good physicist (bilibili video)](https://www.bilibili.com/video/BV1Nb411g75C/), [novelty](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143), [successful research](https://statmodeling.stat.columbia.edu/2010/07/27/the-three-golden-rules-for-successful-scientific-research/)  
 Fundamentals of instruction:
