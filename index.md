@@ -24,7 +24,7 @@ Visiting Research Student, Sep. 2019 - Feb. 2020
    advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
 
 ### Publications, pre-prints, and thesis  
-**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratified ﬂow. (submitted to J. Fluid. Mech.) (arxiv)    
+**Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratified ﬂow. (submitted to J. Fluid. Mech.) (arxiv)[http://arxiv.org/abs/2401.02089]  
 **Jinyuan Liu** and Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Journal of Physics: Conference Series (Proceeding for the fifth Madrid Turbulence Summer School),_ 2024  (link) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/cowakes_liu_sarkar_final.pdf">(pdf)</a>   
 Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study on wetted and cavitating tip-vortical flows around an elliptical hydrofoil: Interplay of cavitation, vortices, and turbulence. _Physics of Fluids_, 33(9):093316, 2021 [(link)](https://aip.scitation.org/doi/full/10.1063/5.0064717) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/XieLiuJiangHuang2021_PoF.pdf">(pdf)</a>   
 **Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
