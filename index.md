@@ -80,13 +80,13 @@ Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 201
 ### Shared links 
 Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/) [(vector calculus a,](https://www.feynmanlectures.caltech.edu/II_02.html) [b)](https://www.feynmanlectures.caltech.edu/II_03.html)  
 Philosophy:
-[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html), [be a good physicist (bilibili video)](https://www.bilibili.com/video/BV1Nb411g75C/), [novelty](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143), [successful research](https://statmodeling.stat.columbia.edu/2010/07/27/the-three-golden-rules-for-successful-scientific-research/), [surviving](http://karpathy.github.io/2016/09/07/phd/)  
+[good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html), [be a good physicist (bilibili video)](https://www.bilibili.com/video/BV1Nb411g75C/), [novelty](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143) 
+Techniques: [successful research](https://statmodeling.stat.columbia.edu/2010/07/27/the-three-golden-rules-for-successful-scientific-research/), [surviving](http://karpathy.github.io/2016/09/07/phd/), [CS PhD](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)  
 Fundamentals of instruction:
 [how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise)  
 History and arts: 
 [the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang (in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
-Others: 
-[CS PhD](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)  
+
 
 ### Fun pics
 <p align="center">
