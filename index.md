@@ -86,7 +86,7 @@ Fundamentals of instruction:
 [how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise), [QT](https://en.wikipedia.org/wiki/Quality_time), [five languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages)    
 History and arts: 
 [the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang (in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
-Weather brief tools: [sun calc](https://www.suncalc.org), [moon calc](https://www.mooncalc.org), [twilights](https://www.weather.gov/lmk/twilight-types), [windy](https://www.windy.com), [surface analysis](https://aviationweather-cprk.ncep.noaa.gov/progchart/sfc), [HRRR](https://rapidrefresh.noaa.gov/hrrr/), [Santa Ana winds](https://en.wikipedia.org/wiki/Santa_Ana_winds)  
+Weather brief tools: [sun calc](https://www.suncalc.org), [moon calc](https://www.mooncalc.org), [twilights](https://www.weather.gov/lmk/twilight-types), [windy](https://www.windy.com), [surface analysis](https://aviationweather-cprk.ncep.noaa.gov/progchart/sfc), [HRRR](https://rapidrefresh.noaa.gov/hrrr/), [Santa Ana winds](https://en.wikipedia.org/wiki/Santa_Ana_winds), [San Diego radar](https://radar.weather.gov/station/KNKX/standard), [NWS office San Diego](https://www.weather.gov/sgx/)  
 Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)  
 
 ### Fun pics
