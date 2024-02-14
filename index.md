@@ -36,6 +36,7 @@ The 75th Annual Meeting of APS DFD, Indianapolis, November 2022. <a target="_bla
 The 16th SoCal Fluids Symposium, SDSU, San Diego, April 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_23_liu.pdf">(abstract)</a>   
 The 76th Annual Meeting of APS DFD, Washington DC, November 2023. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_23_liu.pdf">(abstract)</a>  
 Ocean Science Meeting  2024, New Orleans, February 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/OSM2024_liu.pdf">(poster)</a>   
+The 17th SoCal Fluids Symposium, UCI, Irvine, April 2024 (abstract)   
 
 ### Notes (under construction)  
 Hydrodynamic and geostrophic assumptions, CFD Lab Tech Notes. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/geos_hydros.pdf">(pdf)</a>  
