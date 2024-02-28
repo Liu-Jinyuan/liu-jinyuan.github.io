@@ -105,6 +105,10 @@ Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)
 
 
 ### Miscellaneous   
-See [my airborne photos out-of-the-window](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) or [the airports I have been to](https://www.jetphotos.com/photographer/144411)  
+Aviation photos: [airborne photos (wingview),](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) [airports I have been to](https://www.jetphotos.com/photographer/144411)   
+Trumpet recitals (solo):  
+Andante, 2nd mov. of Haydn Trumpet concerto in Eb, La Jolla Christian Fellowship, April 2024  
+Carnival of Venice by Henry W. Davis, La Jolla Christian Fellowship, April 2023  
+Emperor's Hymn by Franz Joseph Haydn, La Jolla Christian Fellowship, May 2022  
 
 
