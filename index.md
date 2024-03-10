@@ -44,7 +44,7 @@ Modified differential equation analysis of RK3+central scheme for Burgers equati
 Question list on fluid mechanics, numerics, and turbulence <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>   
 Space-time and spectral proper orthogonal decomposition <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/pod_spod.pdf">(pdf)</a>   
 Practical Fourier transform and spectral methods (TBD)  
-Equations in Fluids (TBD)  
+Equations in Fluids (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/eqns_fluids.pdf">(pdf)</a> 
 Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
