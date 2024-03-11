@@ -85,8 +85,8 @@ Philosophy:
 Techniques: [successful research](https://statmodeling.stat.columbia.edu/2010/07/27/the-three-golden-rules-for-successful-scientific-research/), [surviving](http://karpathy.github.io/2016/09/07/phd/), [CS PhD](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf), [good research and good papers](http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/)  
 Fundamentals of instruction:
 [how memory works](https://www.cfinotebook.net/lesson-plans/fundamentals-of-instructing/memory), [delibarate practice](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise), [QT](https://en.wikipedia.org/wiki/Quality_time), [five languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages)    
-History and arts: 
-[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang (in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm)  
+History, arts, languages: 
+[the story of Computer Roman](https://tug.org/whatis.html)[ (also in Chinese)](https://www.thetype.com/2010/02/2044/?from=timeline), [Xi-shan-cang-cang (in Chinese)](https://xsg.tsinghua.edu.cn/info/1005/1145.htm), [Merriam Webster](https://www.merriam-webster.com/)  
 Weather brief tools: [sun calc](https://www.suncalc.org), [moon calc](https://www.mooncalc.org), [twilights](https://www.weather.gov/lmk/twilight-types), [windy](https://www.windy.com), [surface analysis](https://aviationweather-cprk.ncep.noaa.gov/progchart/sfc), [HRRR](https://rapidrefresh.noaa.gov/hrrr/), [Santa Ana winds](https://en.wikipedia.org/wiki/Santa_Ana_winds), [San Diego radar](https://radar.weather.gov/station/KNKX/standard), [NWS office San Diego](https://www.weather.gov/sgx/)  
 Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)  
 
