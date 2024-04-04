@@ -65,10 +65,10 @@ Member, American Go Association
 
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024  
-MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023, 2024 (voluntary)  
+MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023,   
 
 ### Services 
-Referee for: Physics of Fluids, Acta Mechanica Sinica  
+Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinica  
 Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019  
@@ -76,7 +76,7 @@ Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 201
 ### Friends' links (under construction)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved and he is now only 15 years away from reaching the age limit of the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal)!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
-[Xinyi](https://xinyi-huang.github.io/)  is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
+[Xinyi](https://xinyi-huang.github.io/) is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
 
 ### Shared links 
 Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/), [vector calculus (a,](https://www.feynmanlectures.caltech.edu/II_02.html)[ b)](https://www.feynmanlectures.caltech.edu/II_03.html), [Cambridge notes](http://dec41.user.srcf.net/notes/), [command lines 101 (a,](https://hpc-training.sdsc.edu/)[ b)](https://github.com/bobbyiliev/101-linux-commands-ebook), [bash book](https://github.com/bobbyiliev/introduction-to-bash-scripting), [databook (pdf, ](http://databookuw.com/databook.pdf)[ web)](http://databookuw.com), [chaosbook (pdf,](https://chaosbook.org/chapters/ChaosBook.pdf)[ web)](https://chaosbook.org/), [applied differential equations (a, ](https://www.cfm.brown.edu/people/dobrush/am33/Mathematica/index.html)[b)](https://www.cfm.brown.edu/people/dobrush/am34/Mathematica/index.html), [13 classic papers in applied math](https://www.stat.uchicago.edu/~lekheng/courses/302/classics/), [Del in other coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates)    
