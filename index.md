@@ -105,7 +105,7 @@ Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)
 </p>   
 
 <p align="center">
-  <img src="/docs/kexueyou.jpg" width="350" height="350">  
+  <img src="/docs/kexueyou.jpg" width="350" height="256">  
 </p>   
 
 
