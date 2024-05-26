@@ -104,6 +104,10 @@ Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)
   <img src="/docs/jinyuan_pic_20.jpg" width="350" height="350">  
 </p>   
 
+<p align="center">
+  <img src="/docs/kexueyou.jpg" width="350" height="350">  
+</p>   
+
 
 ### Miscellaneous   
 Aviation photos: [airborne photos (wingview),](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) [airport photos](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=16&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0), [JetPhotos' recommendations (J](https://www.jetphotos.com/photographer/144411/photos/category/6), [F](https://www.facebook.com/profile/100057139524440/search/?q=Jinyuan), [X)](https://x.com/search?q=%22Jinyuan%20Liu%22%2B%22Jetphotos%22&src=typed_query)   
