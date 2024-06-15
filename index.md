@@ -73,7 +73,7 @@ Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinic
 Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
 JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019  
-End-of-Year Outstanding Teaching Assistant, MAE dept, UCSD, 2023-2024  
+Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024  
 
 ### Friends' links (under construction)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved and he is now only 15 years away from reaching the age limit of the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal)!  
