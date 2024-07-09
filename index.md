@@ -7,7 +7,7 @@ Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at 
 
 Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politecnica de Madrid.
 
-Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 100,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He has been playing Go (Wei-Qi) since elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
+Jinyuan is also an aviation photographer and a member of the [photography team](https://airways-photo.square.site/) of [Airways Magazine](https://airwaysmag.com/). [(Jetphotos gallery, ](https://www.jetphotos.com/photographer/144411) [Airways gallery)](https://airways-photo.square.site/jinyuan-liu) His shutter count exceeds 150,000. He swims and plays the trumpet, when he is not pretending to be a fluid dynamicist. He has been playing Go (Wei-Qi) since elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
 
 His name in Chinese characters is 刘晋源. 
    
@@ -57,6 +57,7 @@ Scholarship for Scientific Innovation, Tsinghua University, 2018
 Scholarship for Overall Excellence, Tsinghua University, 2018  
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
+Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024  
 
 ### Fellowships and Memberships 
 Fellowship, the 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
@@ -71,9 +72,8 @@ MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sark
 ### Services 
 Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinica  
 Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
-JUMP Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
-Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019  
-Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024  
+JUMP Peer-to-Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
+Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019   
 
 ### Friends' links (under construction)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved and he is now only 15 years away from reaching the age limit of the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal)!  
@@ -81,7 +81,7 @@ Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024
 [Xinyi](https://xinyi-huang.github.io/) is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
 
 ### Shared links 
-Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/), [vector calculus (a,](https://www.feynmanlectures.caltech.edu/II_02.html)[ b)](https://www.feynmanlectures.caltech.edu/II_03.html), [Cambridge notes](http://dec41.user.srcf.net/notes/), [command lines 101 (a,](https://hpc-training.sdsc.edu/)[ b)](https://github.com/bobbyiliev/101-linux-commands-ebook), [bash book](https://github.com/bobbyiliev/introduction-to-bash-scripting), [databook (pdf, ](http://databookuw.com/databook.pdf)[ web)](http://databookuw.com), [chaosbook (pdf,](https://chaosbook.org/chapters/ChaosBook.pdf)[ web)](https://chaosbook.org/), [applied differential equations (a, ](https://www.cfm.brown.edu/people/dobrush/am33/Mathematica/index.html)[b)](https://www.cfm.brown.edu/people/dobrush/am34/Mathematica/index.html), [13 classic papers in applied math](https://www.stat.uchicago.edu/~lekheng/courses/302/classics/), [Del in other coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates)    
+Resources: [Feynman's lectures](https://www.feynmanlectures.caltech.edu/), [vector calculus (a,](https://www.feynmanlectures.caltech.edu/II_02.html)[ b)](https://www.feynmanlectures.caltech.edu/II_03.html), [Cambridge notes](http://dec41.user.srcf.net/notes/), [command lines 101 (a,](https://hpc-training.sdsc.edu/)[ b)](https://github.com/bobbyiliev/101-linux-commands-ebook), [bash book](https://github.com/bobbyiliev/introduction-to-bash-scripting), [databook (pdf, ](http://databookuw.com/databook.pdf)[ web)](http://databookuw.com), [chaosbook (pdf,](https://chaosbook.org/chapters/ChaosBook.pdf)[ web)](https://chaosbook.org/), [applied differential equations (a, ](https://www.cfm.brown.edu/people/dobrush/am33/Mathematica/index.html)[b)](https://www.cfm.brown.edu/people/dobrush/am34/Mathematica/index.html), [13 classic papers in applied math](https://www.stat.uchicago.edu/~lekheng/courses/302/classics/), [Del in other coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates), [a short intro to LaTeX](https://mirrors.rit.edu/CTAN/info/lshort/english/lshort.pdf)    
 Philosophy:
 [good taste](http://www.paulgraham.com/goodart.html), [work hard](http://www.paulgraham.com/hwh.html), [interest](http://www.paulgraham.com/genius.html), [smart](http://www.paulgraham.com/smart.html), [do well in math](https://mathweb.ucsd.edu/~zlatos/math_classes.html), [be a good physicist (bilibili video)](https://www.bilibili.com/video/BV1Nb411g75C/), [novelty](https://medium.com/@black_51980/novelty-in-science-8f1fd1a0a143), [you and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), [taste(Y)](http://www.mathchina.com/bbs/forum.php?mod=viewthread&tid=2057721), [Thoughts about Research (Kung)](https://www.eecs.harvard.edu/htk/phdadvice/)    
 Techniques: [successful research](https://statmodeling.stat.columbia.edu/2010/07/27/the-three-golden-rules-for-successful-scientific-research/), [surviving](http://karpathy.github.io/2016/09/07/phd/), [CS PhD](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf), [good research and good papers](http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/)  
