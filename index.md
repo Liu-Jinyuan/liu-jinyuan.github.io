@@ -64,6 +64,7 @@ Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024
 Fellowship, the 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
 Fellowship, the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
 Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
+Student Member, American Institute of Aeronautics and Astronautics (since 2024)  
 Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
