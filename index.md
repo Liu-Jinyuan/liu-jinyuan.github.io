@@ -121,6 +121,6 @@ Carnival of Venice by Henry W. Davis, La Jolla Christian Fellowship Church, Apri
 Emperor's Hymn by Franz Joseph Haydn, La Jolla Christian Fellowship Church, May 2022  
 
 <a href="https://clustrmaps.com/site/1c0t1"  title="Visit tracker"></a> 
-<!<img src="//www.clustrmaps.com/map_v2.png?d=63pNnXWghBTy0WxB7zm5l4AxFzIliB1rJ5XczxvE4nE&cl=ffffff" /></a>> 
+<!<img src="//www.clustrmaps.com/map_v2.png?d=63pNnXWghBTy0WxB7zm5l4AxFzIliB1rJ5XczxvE4nE&cl=ffffff" />>
 
 
