@@ -38,6 +38,7 @@ The 76th Annual Meeting of APS DFD, Washington DC, November 2023. <a target="_bl
 Ocean Science Meeting 2024, New Orleans, February 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/OSM2024_liu.pdf">(poster)</a>   
 The 17th SoCal Fluids Symposium, UCI, Irvine, April 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_24_liu.pdf">(abstract)</a>   
 JSOE Research Expo 2024, UCSD, La Jolla, April 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/OSM2024_liu.pdf">(poster)</a>   
+Workshop on Coherent Structures for Turbulence Modeling, Santa Fe, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_and_Sarkar_CSTM_24.pdf">(abstract)</a> (poster)    
 The 77th Annual Meeting of APS DFD, Salt Lake City, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_24_liu.pdf">(abstract)</a>  
 
 ### Notes (under construction)  
