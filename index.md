@@ -69,7 +69,7 @@ Student Member, American Institute of Aeronautics and Astronautics (since 2024)
 Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
-MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024  
+MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024, 2025    
 MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023   
 
 ### Services 
@@ -116,10 +116,6 @@ Aviation: [CFI notebook](https://www.cfinotebook.net/notebook/cfi-notebook)
 ### Miscellaneous   
 Aviation photos: [airborne photos (wingview),](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) [airport photos](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=16&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0), [JetPhotos' recommendations (J](https://www.jetphotos.com/photographer/144411/photos/category/6), [F](https://www.facebook.com/profile/100057139524440/search/?q=Jinyuan), [X)](https://x.com/search?q=%22Jinyuan%20Liu%22%2B%22Jetphotos%22&src=typed_query)   
 
-Trumpet recitals (solo):  
-Andante, 2nd mov. of Haydn Trumpet concerto in Eb, La Jolla Christian Fellowship Church, April 2024  
-Carnival of Venice by Henry W. Davis, La Jolla Christian Fellowship Church, April 2023  
-Emperor's Hymn by Franz Joseph Haydn, La Jolla Christian Fellowship Church, May 2022  
 
 <a href="https://clustrmaps.com/site/1c0t1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=63pNnXWghBTy0WxB7zm5l4AxFzIliB1rJ5XczxvE4nE&cl=ffffff" width="15" height="15" /></a> 
 
