@@ -69,7 +69,7 @@ Student Member, American Institute of Aeronautics and Astronautics (since 2024)
 Member, American Go Association   
 
 ### Teaching Assistantship (at UCSD)
-MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024, 2025    
+MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024    
 MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023   
 
 ### Services 
