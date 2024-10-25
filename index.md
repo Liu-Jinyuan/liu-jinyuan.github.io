@@ -59,7 +59,7 @@ Scholarship for Scientific Innovation, Tsinghua University, 2018
 Scholarship for Overall Excellence, Tsinghua University, 2018  
 Scholarship for Academic Distinction, Tsinghua University, 2017, 2018, 2019  
 First Prize, National Aerospace Knowledge Competition for College Students, 2018  
-Outstanding Teaching Assistant of the Year, MAE dept, UCSD, 2023-2024  
+Outstanding Teaching Assistant of The Year, MAE dept, UCSD, 2023-2024  
 
 ### Fellowships and Memberships 
 Fellowship, the 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
