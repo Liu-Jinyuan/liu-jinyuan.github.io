@@ -63,7 +63,7 @@ Outstanding Teaching Assistant of The Year, MAE dept, UCSD, 2023-2024
 
 ### Fellowships and Memberships 
 Fellowship, the 5th Madrid Turbulence Summer School, Universidad Politecnica de Madrid, 2023    
-Fellowship, the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018    
+Fellowship, the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2018    
 Student Member, American Physical Society, Division of Fluid Dynamics (since 2019)  
 Student Member, American Institute of Aeronautics and Astronautics (since 2024)  
 Member, American Go Association   
@@ -74,7 +74,7 @@ MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sark
 
 ### Services 
 Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinica  
-Chairperson, Council of the 12th [Spark Innovative Talent Cultivation Program](http://www.tuef.tsinghua.edu.cn/column/sp1), Tsinghua University, 2018 - 2020  
+Chairperson, Council of the 12th Spark Innovative Talent Cultivation Program, Tsinghua University, 2018 - 2020  
 JUMP Peer-to-Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San Diego, 2020, 2021  
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019   
 
