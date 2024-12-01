@@ -71,6 +71,7 @@ Member, American Go Association
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024    
 MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023   
+MAE101B 'Advanced' Fluid Mechanics (undergrad course, instructor: Hieu Pham), Winter 2025  
 
 ### Services 
 Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinica  
