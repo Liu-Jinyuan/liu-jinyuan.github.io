@@ -32,6 +32,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 
 ### Talks and conference presentations  
 The 18th SoCal Fluids Symposium, USC, Los Angeles, April 2025.  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_25_liu.pdf">(abstract)</a>   
+MAE 60th Anniversary Celebration, MAE Dept, UC San Diego, April 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/mae_60th_lps.pdf">(poster)</a>    
 The 77th Annual Meeting of APS DFD, Salt Lake City, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_24_liu.pdf">(abstract)</a>  
 Workshop on Coherent Structures for Turbulence Modeling, Santa Fe, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_and_Sarkar_CSTM_24.pdf">(abstract)</a>      
 JSOE Research Expo 2024, UCSD, La Jolla, April 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/OSM2024_liu.pdf">(poster)</a>   
