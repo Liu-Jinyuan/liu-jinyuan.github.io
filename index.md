@@ -45,7 +45,7 @@ The 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022.
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_liu_22.pdf">(abstract)</a>  
 
 ### Notes (under construction)  
-First principles in fluids (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/eqns_fluids.pdf">(pdf)</a>   
+First principles in fluids (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/eqns_fluids_book.pdf">(pdf)</a>   
 Question list on fluid mechanics, numerics, and turbulence <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>   
 Space-time and spectral proper orthogonal decomposition <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/pod_spod.pdf">(pdf)</a>   
 Practical Fourier transform and spectral methods (TBD)   
