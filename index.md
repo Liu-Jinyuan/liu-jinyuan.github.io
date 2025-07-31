@@ -56,8 +56,8 @@ Aviation photography: at the intersection of science and arts, TU night Talk (in
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
 ### Awards  
-Outstanding Undergraduate Dissertation (5%), Tsinghua University, 2020  
-Academic Distinction Award for Graduates (10%), Tsinghua University, 2020  
+Outstanding Undergraduate Dissertation, Tsinghua University, 2020  
+Academic Distinction Award for Graduates, Tsinghua University, 2020  
 Second Prize for Student Research Training, Tsinghua University, 2019  
 Scholarship for Scientific Innovation, Tsinghua University, 2018  
 Scholarship for Overall Excellence, Tsinghua University, 2018  
