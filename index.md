@@ -3,20 +3,20 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jinyuan_cv.pdf">CV</a>, 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JZoiqx8AAAAJ&view_op=list_works&gmla=AJsN-F6ZzJ_d96OQwlVnTF-oqgqrxpQnrrX771f60xKjQMz51DZlzs8GPt2_hGTrI5Vis-FTSqWTNqORvViWrQAw0LyK6ICOSOHpf_kRtJV1T8P-A4sOgGk), [ORCID](https://orcid.org/0000-0003-4133-0930), [LinkedIn](https://www.linkedin.com/in/liu-jinyuan/)  
 
-Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with [Sutanu Sarkar](https://scholar.google.com/citations?user=tjpDrQkAAAAJ&hl=en&oi=ao) in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). He is generally interested in the physics and numerical simulation of turbulence in canonical (homogeneous, free shear, and wall-bounded) and geophysical (stratified and/or rotating) flows. His current research focuses on instabilities, vortex dynamics, and coherent structures in such flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
+Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with Sutanu Sarkar in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). He is generally interested in the physics and numerical simulation of turbulence in canonical (homogeneous, free shear, and wall-bounded) and geophysical (stratified and/or rotating) flows. His current research focuses on instabilities, coherent structures, and turbulence in such flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
 
-Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in Jan. 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
+Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in January 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He has been playing Go (Wei-Qi) since elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He started playing Go (Wei-Qi) in elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
 
 His name in Chinese characters is 刘晋源. 
    
 ### Education
-Ph. D. student in Fluid Mechanics, Jan. 2021 - present  
+Ph.D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego,  
    advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
    
-B. S. E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
+B.S.E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University   
     
 Visiting Research Student, Sep. 2019 - Feb. 2020  
@@ -31,7 +31,8 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 **Jinyuan Liu**. Large- and very-large-scale structures in turbulent channels. Undergraduate thesis (Tsinghua University, 2020), in Chinese. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Thesis_Liu_J.pdf">(pdf)</a>  
 
 ### Talks and conference presentations  
-The 18th SoCal Fluids Symposium, USC, Los Angeles, April 2025.  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_25_liu.pdf">(abstract)</a>   
+The 78th Annual Meeting of APS DFD, Houston, November 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_25_liu.pdf">(abstract)</a>   
+The 18th SoCal Fluids Symposium, USC, Los Angeles, April 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_25_liu.pdf">(abstract)</a>   
 MAE 60th Anniversary Celebration, MAE Dept, UC San Diego, April 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/mae_60th_lps.pdf">(poster)</a>    
 The 77th Annual Meeting of APS DFD, Salt Lake City, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_24_liu.pdf">(abstract)</a>  
 Workshop on Coherent Structures for Turbulence Modeling, Santa Fe, November 2024. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_and_Sarkar_CSTM_24.pdf">(abstract)</a>      
@@ -83,7 +84,7 @@ JUMP Peer-to-Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San D
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019   
 
 ### Friends' links (under construction)  
-[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him  that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved and he is now only 15 years away from reaching the age limit of the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal)!  
+[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
 [Xinyi](https://xinyi-huang.github.io/) is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
 
