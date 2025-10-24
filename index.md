@@ -14,7 +14,7 @@ His name in Chinese characters is 刘晋源.
 ### Education
 Ph.D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego,  
-   advised by [Sutanu Sarkar](https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao)  
+   advised by [Sutanu Sarkar]([https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao](http://www.cfdlab.ucsd.edu/people.html))  
    
 B.S.E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University   
