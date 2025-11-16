@@ -5,22 +5,22 @@ Contacts: [wallturb@gmail.com](mailto:wallturb@gmail.com), [jinyuanliu@ucsd.edu]
 
 Jinyuan is currently a Ph.D. student in Mechanical and Aerospace Engineering at the University of California San Diego. He works with Sutanu Sarkar in the [CFD Lab](http://www.cfdlab.ucsd.edu/index.html). He is generally interested in the physics and numerical simulation of turbulence in canonical (homogeneous, free shear, and wall-bounded) and geophysical (stratified and/or rotating) flows. His current research focuses on instabilities, coherent structures, and turbulence in such flows. He seeks truth, simplicity, and beauty in fluid mechanics.  
 
-Jinyuan received his Bachelor's Degree in engineering thermophysics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in January 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
+Jinyuan received his Bachelor's Degree in Engineering Mechanics from Tsinghua University, China, in 2020. After working as a post-baccalaureate researcher at the same institute for six months, he joined the CFD Lab in January 2021. He had also been working as a pre-doctoral researcher on turbulent boundary layers at the University of Waterloo, and on turbulent channels at Universidad Politécnica de Madrid.
 
-Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He started playing Go (Wei-Qi) in elementary school and was ranked amateur 5-dan by the Chinese Go Association. 
+Jinyuan is also an aviation photographer [(Jetphotos gallery)](https://www.jetphotos.com/photographer/144411). His shutter count exceeded 200,000 before he stopped counting. He swims and plays the trumpet when he is not pretending to be a fluid dynamicist. He plays Go (Wei-Qi) and was ranked amateur 5-dan by the Chinese Go Association. 
 
 His name in Chinese characters is 刘晋源. 
    
 ### Education
 Ph.D. student in Fluid Mechanics, Jan. 2021 - present  
    Department of Mechanical and Aerospace Engineering, UC San Diego,  
-   advised by [Sutanu Sarkar]([https://scholar.google.com/citations?user=mfQsfMwAAAAJ&hl=en&oi=ao](http://www.cfdlab.ucsd.edu/people.html))  
+   advised by [Sutanu Sarkar](http://www.cfdlab.ucsd.edu/people.html)  
    
 B.S.E. in Thermophysics (with distinction), Aug. 2016 - June 2020  
    Department of Engineering Mechanics, Tsinghua University   
     
 Visiting Research Student, Sep. 2019 - Feb. 2020  
-   School of Aeronautics, Universidad Politecnica de Madrid,  
+   School of Aeronautics, Universidad Politécnica de Madrid,  
    advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
 
 ### Publications, pre-prints, and thesis  
@@ -47,12 +47,12 @@ The 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022.
 
 ### Notes (under construction)  
 First principles in fluids (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/eqns_fluids_book.pdf">(pdf)</a>   
-Question list on fluid mechanics, numerics, and turbulence <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>   
-Space-time and spectral proper orthogonal decomposition <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/pod_spod.pdf">(pdf)</a>   
+Question list on fluid mechanics, numerics, and turbulence (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>   
+Space-only and spectral proper orthogonal decomposition <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/pod_spod.pdf">(pdf)</a>   
 Practical Fourier transform and spectral methods (TBD)   
 Modified differential equation analysis of RK3+central scheme for Burgers equation <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/rk3_central.pdf">(pdf)</a>  
 
-Aviation photography: at the intersection of science and arts, TU night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
+Aviation photography: at the intersection of science and arts, TU Night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
 Coherent structures in Spark 12, Spark talk (commencement address), Tsinghua, May 2020. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Spark_talk_final.pdf">(slides)</a> 
 
 ### Awards  
@@ -74,8 +74,9 @@ Member, American Go Association
 
 ### Teaching Assistantship (at UCSD)
 MAE290B Numerical Methods for ODEs/PDEs (graduate course, instructor: Sutanu Sarkar), Winters 2022, 2023, 2024    
-MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023, 2025    
+MAE214A Intro to Turbulence and Mixing (graduate course, instructor: Sutanu Sarkar), Springs 2022, 2023, 2025     
 MAE101B 'Advanced' Fluid Mechanics (undergrad course, instructor: Hieu Pham), Winter 2025  
+MAE8 MATLAB Programming for Engineering Sciences (undergrad course, instructor: Hieu Pham), Fall 2025  
 
 ### Services 
 Referee for: Journal of Fluid Mechanics, Physics of Fluids, Acta Mechanica Sinica  
@@ -86,7 +87,7 @@ Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 201
 ### Friends' links (under construction)  
 [Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is still unsolved!  
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
-[Xinyi](https://xinyi-huang.github.io/) is taking her voyage through turbulence and leaves no trace. But the ups and downs are already in the mind.  
+[Xinyi](https://xinyi-huang.github.io/) is taking her voyage through turbulence and leaves some traces, with the ups and downs in the author's own mind.  
 
 ### Shared links 
 Physics & Maths: [vector calculus (a,](https://www.feynmanlectures.caltech.edu/II_02.html)[ b)](https://www.feynmanlectures.caltech.edu/II_03.html) in the [Feynman's lectures](https://www.feynmanlectures.caltech.edu/), [Cambridge notes](http://dec41.user.srcf.net/notes/), [DAMTP Example Sheets](http://www.damtp.cam.ac.uk/user/examples/), [NTNU Numerical Methods for Engineers](https://leifh.folk.ntnu.no/teaching/tkt4140/._main000.html), [Fluid Mechanics educational videos](http://web.mit.edu/hml/ncfmf.html), [chaosbook (pdf,](https://chaosbook.org/chapters/ChaosBook.pdf)[ web)](https://chaosbook.org/), [fractals (Mandelbrot)](https://www.youtube.com/watch?v=9G6uO7ZHtK8), [applied differential equations (a, ](https://www.cfm.brown.edu/people/dobrush/am33/Mathematica/index.html)[b)](https://www.cfm.brown.edu/people/dobrush/am34/Mathematica/index.html), [13 classic papers in applied math](https://www.stat.uchicago.edu/~lekheng/courses/302/classics/), [Del in other coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates), [strains in cylindrical coordinates](https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Structural_Mechanics_(Wierzbicki)/01%3A_The_Concept_of_Strain/1.03%3A_Description_of_Strain_in_the_Cylindrical_Coordinate_System)     
