@@ -52,7 +52,7 @@ The 15th SoCal Fluids Symposium, UCLA, Los Angeles, April 2022.
 First principles in fluids (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/eqns_fluids_book.pdf">(pdf)</a>   
 Question list on fluid mechanics, numerics, and turbulence (under construction) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dqe_question_list.pdf">(pdf)</a>   
 Space-only and spectral proper orthogonal decomposition <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/pod_spod.pdf">(pdf)</a>   
-Practical Fourier transform and spectral methods (TBD)   
+A review of tensor calculus <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/tensors.pdf">(pdf)</a>  
 Modified differential equation analysis of RK3+central scheme for Burgers equation <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/rk3_central.pdf">(pdf)</a>  
 
 Aviation photography: at the intersection of science and arts, TU Night Talk (in Chinese), [TUNA](https://tuna.moe/) at Tsinghua, May 2022. [(link)](https://tuna.moe/event/2022/overexposed/) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/TUNA_Liu.pdf">(slides)</a>  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LDOXE4citGs">(YouTube)</a>  
