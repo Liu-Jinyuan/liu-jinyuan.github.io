@@ -31,7 +31,7 @@ Chunmei Xie, **Jinyuan Liu**, Jing-Wei Jiang, and Wei-Xi Huang. Numerical study 
 
 ### Talks and conference presentations  
 AIAA Scitech Forum 2027, Orlando, January 2027. (abstract)  
-The 79th Annual Meeting of APS DFD, Orlando, November 2026. (abstract)   
+The 79th Annual Meeting of APS DFD, Orlando, November 2026. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_26_liu.pdf">(abstract)</a>     
 The 19th SoCal Fluids Symposium, UC Riverside, April 2026. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/socal_26_liu.pdf">(abstract)</a>   
 JSOE Research Expo 2026, UCSD, La Jolla, April 2026.  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/jsoe_2026.pdf">(poster)</a>    
 The 78th Annual Meeting of APS DFD, Houston, November 2025. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/aps_25_liu.pdf">(abstract)</a>   
