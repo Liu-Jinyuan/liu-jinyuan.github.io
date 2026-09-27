@@ -90,7 +90,7 @@ JUMP Peer-to-Peer Mentor for 8 undergrads, Jacob School of Engineering, UC San D
 Freshmen Mentor for 15 undergrads, School of Aerospace, Tsinghua University, 2018, 2019   
 
 ### Friends' links (under construction)  
-[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) is <s>still unsolved!</s> [solved](https://openai.com/index/navier-stokes-solution/) (updated Sept 2026) and he should probably look for other jobs.     
+[Hedong (Ben) Hou](https://benahou.github.io/) is not working hard enough! Please drop him a message and remind him that the [Millennium Problem of Navier-Stokes Equations](https://www.claymath.org/millennium/navier-stokes-equation/) is <s>still unsolved!</s> [solved](https://openai.com/index/navier-stokes-solution/) (updated Sept 2026) and he should probably look for other jobs.     
 [Pwe](https://yipe.ng/zh.pdf) is a cat. Click [here](https://pwe.cat/) to pat.  
 [Xinyi](https://xinyi-huang.github.io/) is taking a voyage through turbulence and has left some traces.   
 
