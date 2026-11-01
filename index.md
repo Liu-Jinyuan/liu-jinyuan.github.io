@@ -22,7 +22,7 @@ Visiting Research Student, Sep. 2019 - Feb. 2020
    advised by [Javier Jimenez](https://torroja.dmt.upm.es/)  
 
 ### Publications, pre-prints, and thesis  
-**Jinyuan Liu** and Sutanu Sarkar. Scale interactions and energy transfer in the turbulent wake of a bluff body. _submitted to Journal of Fluid Mechanics_, 2026 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dwakes_scales_arxiv.pdf">(pdf)</a> [(arXiv)](http://arxiv.org/abs/2607.10028)     
+**Jinyuan Liu** and Sutanu Sarkar. Scale interactions and energy transfer in the turbulent wake of a bluff body. _accepted by Journal of Fluid Mechanics_, 2026 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/dwakes_scales_arxiv.pdf">(pdf)</a> [(arXiv)](http://arxiv.org/abs/2607.10028)     
 **Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Turbulence in stratified rotating topographic wakes. _Journal of Physical Oceanography_, vol. 55, no. 11, 2025 [(link)](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0035.1/JPO-D-25-0035.1.xml) [(arXiv)](https://arxiv.org/abs/2502.06129) [(data)](https://zenodo.org/records/15549518)    
 **Jinyuan Liu**, Pranav Puthan, Sutanu Sarkar. Eﬀect of rotation on wake vortices in stratified ﬂow. _Journal of Fluid Mechanics_, vol. 999, A44, 2024 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Puthan_Sarkar_24_JFM.pdf">(pdf)</a> [(link)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effect-of-rotation-on-wake-vortices-in-stratified-flow/30B8C6BA67358B687BE5C4CBCD6DA7A1)  
 **Jinyuan Liu** and Sutanu Sarkar. Coherence analysis of geophysical wakes in flow past a three-dimensional hill. _Journal of Physics: Conference Series (Proceeding for the fifth Madrid Turbulence Summer School),_ 2024  [(link)](https://iopscience.iop.org/article/10.1088/1742-6596/2753/1/012007) <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Liu-Jinyuan/liu-jinyuan.github.io/main/docs/Liu_Sarkar_cowakes.pdf">(pdf)</a>     
@@ -124,6 +124,9 @@ Weather/climate links: [sun calc](https://www.suncalc.org), [moon calc](https://
   <img src="/docs/kexueyou.jpg" width="350" height="256">  
 </p>   
 
+<p align="center">
+  <img src="/docs/avi8.jpg" width="350" height="350">  
+</p>   
 
 ### Miscellaneous   
 Aviation photos: [airborne photos (wingview),](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=32768&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0) [airport photos](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=16&keywords-contain=3&keywords=&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0), [JetPhotos' recommendations (J](https://www.jetphotos.com/photographer/144411/photos/category/6), [F](https://www.facebook.com/profile/100057139524440/search/?q=Jinyuan), [X)](https://x.com/search?q=%22Jinyuan%20Liu%22%2B%22Jetphotos%22&src=typed_query), [photos of A35K of British Airways](https://www.jetphotos.com/showphotos.php?aircraft=all&airline=all&country-location=all&photographer-group=photographer%253B144411&category=all&keywords-type=all&keywords-contain=3&keywords=XWB&photo-year=all&width=&height=&genre=all&search-type=Advanced&sort-order=0)   
